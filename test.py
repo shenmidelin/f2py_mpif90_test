@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# after importing numpy, it seems that Fortran cannot open file
+# after importing numpy, it seems that Fortran cannot open file on OSX
 # comment out it, it works normally
 import numpy
 
